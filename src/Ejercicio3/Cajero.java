@@ -1,3 +1,5 @@
+package Ejercicio3;
+
 public class Cajero extends Empleado implements Autenticable, Gestionable{
 
     public Cajero(String nombre, String usuario, String clave) {

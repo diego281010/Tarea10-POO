@@ -1,3 +1,5 @@
+package Ejercicio3;
+
 public class Administrador extends Empleado implements Autenticable, Reportable, Gestionable{
 
     public Administrador(String nombre, String usuario, String clave) {

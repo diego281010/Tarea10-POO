@@ -1,3 +1,5 @@
+package Ejercicio3;
+
 public class Supervisor extends Empleado implements Autenticable, Reportable{
 
     public Supervisor(String nombre, String usuario, String clave) {

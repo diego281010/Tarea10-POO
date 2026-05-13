@@ -1,3 +1,5 @@
+package Ejercicio3;
+
 public abstract class Empleado {
     private String nombre;
     private String usuario;
